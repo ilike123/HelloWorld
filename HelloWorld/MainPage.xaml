@@ -8,6 +8,6 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+        <TextBlock FontSize="48">HelloWorld!</TextBlock>
     </Grid>
 </Page>
